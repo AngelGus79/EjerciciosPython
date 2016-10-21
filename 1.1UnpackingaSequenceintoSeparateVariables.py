@@ -16,7 +16,7 @@ print("mes: " + str(mes))
 
 #Si no coincide el numero de variables con el numero de iterables manda error
 
-#con cadena, puede ser cualquier iterable
+#aqui un ejemplo con cadena, puede ser cualquier iterable
 a,s,d,f = "hola"
 
 print(a)
